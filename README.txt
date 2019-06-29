@@ -18,7 +18,7 @@ COMPILING                                                           |
 I use the GNU compiler for C++, g++. With this, it should build no  |
 problem.                                                            |
                                                                     |
-Windows: g++ -o rle.exe rle.cpp                                     |
+Windows: g++ -o sdscolor.exe sdscolor.cpp                           |
 ====================================================================
 
 
