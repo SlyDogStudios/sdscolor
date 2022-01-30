@@ -28,7 +28,6 @@ PLATFORMS                                                           |
 This program has been compiled, tested, and confirmed to work on:   |
                                                                     |
 Windows 8                                                           |
-Windows 10                                                          |
 ====================================================================
 
 
